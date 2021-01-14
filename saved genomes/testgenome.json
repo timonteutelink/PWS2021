@@ -1,0 +1,31 @@
+{
+  "inputs": 5,
+  "outputs": 1,
+  "fitness": 15915014.836672664,
+  "hidden_nodes": [
+    7
+  ],
+  "connections": [
+    {
+      "inputId": 2,
+      "outputNode": 6,
+      "weight": 0.5308307422405308,
+      "innovation": 3,
+      "enabled": true
+    },
+    {
+      "inputId": 2,
+      "outputNode": 7,
+      "weight": 0.9391350890266016,
+      "innovation": 6,
+      "enabled": true
+    },
+    {
+      "inputId": 7,
+      "outputNode": 6,
+      "weight": -0.6289417912412927,
+      "innovation": 7,
+      "enabled": true
+    }
+  ]
+}
